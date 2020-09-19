@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 	"upload/controllers"
-	_ "upload/statik"
+	//_ "upload/statik"
 )
 
 func main() {
